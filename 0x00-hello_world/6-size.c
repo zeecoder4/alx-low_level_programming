@@ -12,10 +12,10 @@ int main(void)
 	double doubleSize;
 	char charSize;
 
-	printf("Size of integer: %lu bytes\n", sizeof(integerSize));
-	printf("Size of float: %lu bytes\n", sizeof(floatSize));
-	printf("Size of double: %lu bytes\n", sizeof(doubleSize));
-	printf("Size of char: %lu bytes\n", sizeof(charSize));
+	printf("Size of integer: %i bytes\n", sizeof(integerSize));
+	printf("Size of float: %i bytes\n", sizeof(floatSize));
+	printf("Size of double: %i bytes\n", sizeof(doubleSize));
+	printf("Size of char: %i bytes\n", sizeof(charSize));
 
 	return(0)
 }
