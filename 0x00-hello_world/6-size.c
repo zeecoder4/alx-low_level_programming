@@ -7,7 +7,7 @@
  */
 int main(void)
 
-}
+{
 
 	printf("Size of integer: %i bytes\n", sizeof(int));
 	printf("Size of float: %i bytes\n", sizeof(float));
