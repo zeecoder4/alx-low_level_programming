@@ -3,7 +3,7 @@
 /**
  * main - Programs starts here!
  *
- * return (0) - Program ends here!
+ * Return: (0) Always success 
  */
 int main(void)
 
