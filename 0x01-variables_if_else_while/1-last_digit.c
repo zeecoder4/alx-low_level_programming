@@ -15,7 +15,7 @@ int main(void)
 
 	int lasd;
 
-	lasd = n % 10
+	lasd = n % 10;
 
 
 	srand(time(0));
