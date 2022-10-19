@@ -3,7 +3,7 @@
 /**
  * main - Programs starts here!
  *
- * Return: (0) Always success 
+ * Return:(0) Always success 
  */
 int main(void)
 
@@ -12,9 +12,7 @@ int main(void)
 
 
 	for (c = 'a'; c <= 'z';  c++)
-	{
-	     putchar(c);
-	}
+	   	 putchar(c);
 	putchar('\n');
 	
 
