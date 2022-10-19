@@ -15,12 +15,12 @@ int main(void)
 
 	int lasd;
 
-	lasd = n % 10;
-
 
 	srand(time(0));
 
 	n = rand() - RAND_MAX / 2;
+
+	lasd = n % 10
 
 	if (n > 5)
 	{

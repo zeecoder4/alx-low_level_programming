@@ -7,9 +7,14 @@
  */
 int main(void)
 {
-	char letter; 
-	     letter = "abcdefghijklmnopqrstuvwxyz";
-	putchar(letter);
+	char c;
+
+	for (c = 'a'; c <= 'z';  i++)
+	{
+	     putchar(c);
+	}
+
+	putchar('\n');
 	
 	return (0);
 }
