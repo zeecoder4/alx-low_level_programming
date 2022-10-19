@@ -1,20 +1,17 @@
 #include<stdio.h>
-
 /**
- * main - Programs starts here!
+ * main - program starts here
  *
- * Return:(0) Always success 
+ * Return: Always 0 (success)
  */
 int main(void)
 
 {
 	char c;
 
-
-	for (c = 'a'; c <= 'z';  c++)
-	   	 putchar(c);
+	for (c = 'a'; c <= 'z'; c++)
+		putchar(c);
 	putchar('\n');
-	
 
 	return (0);
 }
