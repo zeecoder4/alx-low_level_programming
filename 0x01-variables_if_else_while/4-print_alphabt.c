@@ -1,9 +1,8 @@
 #include <stdio.h>
-
 /**
- * main - Program starts here 
+ * main - the program starts here
  *
- * Return: Always (0) success
+ * Return: Always (0) Success
  */
 int main(void)
 {
@@ -16,6 +15,7 @@ int main(void)
 			putchar(letters);
 		}
 	}
+
 	putchar('\n');
 
 	return (0);
